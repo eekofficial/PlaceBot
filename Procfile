@@ -1,1 +1,2 @@
-web: python handlers.py
+worker: python handlers.py $PORT
+
